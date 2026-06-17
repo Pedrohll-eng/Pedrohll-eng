@@ -1,7 +1,9 @@
 ## Oi! Eu sou o Pedro
 
-- 🔭 Cursando Engenharia de software
+- 🎓 Cursando Engenharia de software
+- 💻 Aprendendo lógica de programação
 - 🌱 Estudando C#
+- 📚 Interesse em desenvolvimento Back-end
 - 😄 Pronomes: ele/dele
 
 <div>
