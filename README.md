@@ -14,6 +14,7 @@
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<img align="right" width="120" height="120" alt="Image" src="https://github.com/user-attachments/assets/c178860b-9ffc-449f-96cd-0ae7c568989f" />
 </div>
 
 ##
